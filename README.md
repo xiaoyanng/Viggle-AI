@@ -6,9 +6,16 @@ Powered by JST-1, the first video-3d foundation model with actual physics unders
 
 * Viggle AI: https://www.viggleai.net
 
-## Next
+## How to use
 
-More features coming soon! 
+* Join Viggle's Discord Group
+Join Viggle's Discord group to get started. This is where all the magic happens! You can find the community, ask questions, and get inspired by others' creations.
+
+* Key Command: /mix
+This command allows you to blend a character image into a motion video. Simply follow the prompts and let your creativity flow!
+
+* Key Command: /animate
+With this command, you can animate a static character with a text motion prompt. Watch your character come to life in a whole new way!
 
 ## Links
 
